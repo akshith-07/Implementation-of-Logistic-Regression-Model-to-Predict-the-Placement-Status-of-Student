@@ -113,7 +113,7 @@ print(lr.predict([prediction]))
 */
 ```
 
-## Output:
+## Outputs:
 ### Output-1:
 ![linear regression using gradient descent](Output1.png)
 ### Output-2:
